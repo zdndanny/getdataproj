@@ -6,7 +6,7 @@
 
 library("dplyr")
 
-setwd('~/workspace/getdata/courseproject')
+setwd('~/workspace/getdataproj')
 # The raw data is expected in a directory named 'input'
 # We will write to directory 'output'
 
